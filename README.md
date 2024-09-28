@@ -7,20 +7,17 @@
 
 
 ## EDUCATION
-Santa Clara University, Leavey School of Business
-Master of Business Analytics, CGPA 3.8 December 2024
-• Relevant Course Work: Econometrics & Marketing Analytics with R, Machine Learning with Python, Dashboards
-Visualization with Tableau, Database Management Systems with SQL
+- Master of Business Analytics, CGPA 3.8
+- Santa Clara University, Leavey School of Business
 
-University of Wisconsin-Madison, Wisconsin School of Business
-Bachelor in Finance & Investment Banking, CGPA 3.528
-• Treasurer in Women’s Finance and Accounting Club
+- Bachelor in Finance & Investment Banking, CGPA 3.528
+- University of Wisconsin-Madison, Wisconsin School of Business
 
 ## Work History 
-Teladoc San Jose, CA
-People Analytics Intern
+- Teladoc San Jose, CA
+- People Analytics Intern
 
-Fortinet Sunnyvale, CA
-Administrative & Finance Customer Support
+- Fortinet Sunnyvale, CA
+- Administrative & Finance Customer Support
 
 
