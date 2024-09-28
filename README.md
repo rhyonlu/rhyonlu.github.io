@@ -3,7 +3,7 @@
 ## My profile
 - rlu4@scu.edu
 - 669-241-9976
-- https://www.linkedin.com/in/rhyon-lu-a412a81b6/
+- [upmark](https://www.linkedin.com/in/rhyon-lu-a412a81b6/)
 
 
 ## EDUCATION
