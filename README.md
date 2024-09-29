@@ -7,17 +7,18 @@
 
 
 ## EDUCATION
-- Master of Business Analytics, CGPA 3.8
-- Santa Clara University, Leavey School of Business
+#### Santa Clara University, Leavey School of Business
+- Master of Science, Business Analytics
 
-- Bachelor in Finance & Investment Banking, CGPA 3.528
-- University of Wisconsin-Madison, Wisconsin School of Business
+#### University of Wisconsin-Madison, Wisconsin School of Business
+- Bachelor of Arts, Finance & Investment Banking
 
-## Work History 
-- Teladoc San Jose, CA
+## Experience
+#### Teladoc Health - San Jose, CA
 - People Analytics Intern
+- Practicum Student
 
-- Fortinet Sunnyvale, CA
+#### Fortinet - Sunnyvale, CA
 - Administrative & Finance Customer Support
 
 
